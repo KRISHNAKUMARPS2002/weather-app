@@ -19,5 +19,5 @@ Django Weather Detector is a simple web application that provides users with rea
 
 ## Technologies Used
 - Django
-- HTML, CSS, JavaScript
+- Python, HTML
   
